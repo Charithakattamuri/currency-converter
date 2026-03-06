@@ -25,9 +25,9 @@ Widget build(BuildContext context) {
       borderRadius: BorderRadius.circular(10)
     );
     return  Scaffold(
-      backgroundColor: Colors.blueGrey,
+      backgroundColor: Colors.grey,
       appBar: AppBar(
-      backgroundColor: Colors.blueGrey,
+      backgroundColor: Colors.grey,
       title: const Text('Currency Converter', 
       style: TextStyle(color: Colors.white)),
       centerTitle: true,
